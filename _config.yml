@@ -1,0 +1,5 @@
+theme: jekyll-theme-slate
+title: HFT App
+description: Von Studierenden für Studierende
+github:
+  repository_url: https://github.com/hft-app/native
