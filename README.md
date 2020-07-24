@@ -2,7 +2,7 @@
 
 Hier wird in Kürze eine neue Version der HFT App veröffentlicht!
 
-Die Vorgängerversion kann seit dem Sommersemester 2020 leider nicht mehr angeboten werden. Mehr dazu erfährst du in [diesem Artikel](https://luniversity.de/help/general/hft-app#end).
+Die Vorgängerversion kann seit dem Sommersemester 2020 leider nicht mehr angeboten werden. Mehr dazu erfährst Du in [diesem Artikel](https://luniversity.de/help/general/hft-app#end).
 
 ## Das ändert sich für Dich
 
