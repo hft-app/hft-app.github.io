@@ -1,4 +1,4 @@
-# HFT App
+# Neue Version
 
 Hier wird in Kürze eine neue Version der HFT App veröffentlicht!
 
